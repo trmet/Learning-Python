@@ -1,0 +1,12 @@
+# Fun With Block Letters
+
+# My initials are TM
+
+print("""
+TTTTT M   M
+  T   MM MM
+  T   MM MM
+  T   M M M
+  T   M   M
+  T   M   M
+  T   M   M""")
