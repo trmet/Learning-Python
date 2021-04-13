@@ -1,1 +1,1 @@
-Here are some basic functions that I have learned using Python.
+Here are some basic Python functions that I learned using Codeacademy
